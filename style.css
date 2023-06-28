@@ -41,3 +41,11 @@ img {
 height: auto;
 width: 500px;
 }
+
+.second, .third {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+}

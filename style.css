@@ -12,6 +12,10 @@ body {
     background-color: #E7B10A;
     display: flex;
     justify-content: space-between;
+    width: 100%;
+    left: 0;
+    position: fixed;
+    
 }
 
 .logo {
@@ -38,12 +42,23 @@ ul {
 
 .first {
     display: flex;
-    justify-content: space-around;
-    flex: 1;
+    justify-content: space-evenly;
+
+    margin: 100px 300px 100px 300px;
 }
+
+#roti {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
+
 img {
 height: auto;
-width: 300px;
+width: 200px;
 border-radius: 2%;
 }
 figure { display: table; }
@@ -86,6 +101,7 @@ p {
     display: flex;
     flex-direction: column;
     flex: 1;
+    margin: 20px 300px 20px 300px;
 }
 .text-second {
     padding: 10px;
@@ -100,18 +116,19 @@ p {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    margin: 20px 300px 20px 300px;
 }
 
 
 
 .fourth {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: space-around;
     background-color: #E7B10A;
+    flex-wrap: wrap;
     flex: 1;
     padding: 16px;
-    margin-left: 400px;
-    margin-right: 400px;
-
+    margin: 20px 300px 20px 300px;
     
 }

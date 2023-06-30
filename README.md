@@ -1,6 +1,9 @@
 # project-landing-page
 Project: Landing Page
 
+### Overview
+The purpose of this project was to create a project landing page by creating a holy-grail templet using html and css.
+
 ### Resources
 
 * Photo by Surabhi Siddaiah: https://www.pexels.com/photo/baked-roti-topped-with-sliced-lime-beside-onion-ring-in-white-bowl-1051399/
